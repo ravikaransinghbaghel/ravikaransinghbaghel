@@ -98,6 +98,12 @@ Currently practicing **Data Structures & Algorithms in Java**.
 * Dynamic Programming
 
 ---
+## 🧩 LeetCode Stats
+
+<p align="center"> <img src="https://leetcard.jacoblin.cool/ravikaran124?theme=dark&font=baloo&ext=heatmap" alt="LeetCode Stats"/> </p>
+
+<p align="center"> <a href="https://leetcode.com/u/ravikaran124/"> <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/> </a> </p>
+---
 
 ## 📊 GitHub Stats
 
@@ -140,7 +146,11 @@ Docker & DevOps
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">
+<a href="https://leetcode.com/u/ravikaran124">
+<img src="https://img.shields.io/badge/leetcode-32ab32?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/ravikaransingh124/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
