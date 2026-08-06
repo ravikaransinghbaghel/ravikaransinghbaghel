@@ -103,6 +103,8 @@ Currently practicing **Data Structures & Algorithms in Java**.
 <p align="center"> <img src="https://leetcard.jacoblin.cool/ravikaran124?theme=dark&font=baloo&ext=heatmap" alt="LeetCode Stats"/> </p>
 
 <p align="center"> <a href="https://leetcode.com/u/ravikaran124/"> <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/> </a> </p>
+
+
 ---
 
 ## 📊 GitHub Stats
